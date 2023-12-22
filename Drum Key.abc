@@ -1,0 +1,40 @@
+X:1
+T:Master Drum Key
+C:Online-Drummer
+Z:Hawkynt (20.12.2023)
+M:4/4
+Q:75
+K:clef=perc
+U:n=!style=x!
+U:m=!style=triangle!
+%%partsbox 1  % show a box around part-names
+%%flatbeams=1 % all beams are flat
+% %%measurenb 0 % uncomment to show takt-indices
+%%staffsep 5cm % separation of lines
+%%MIDI channel 10
+%%MIDI program 0
+%%MIDI drummap D 44 %pedal hi-hat
+%%MIDI drummap F 36 %bass drum 1
+%%MIDI drummap A 41 %low floor tom
+%%MIDI drummap B 45 %low tom
+%%MIDI drummap c 38 %acoustic snare
+%%MIDI drummap d 48 %hi mid tom
+%%MIDI drummap e 50 %high tom
+%%MIDI drummap f 51 %ride cymbal 1
+%%MIDI drummap g 42 %closed hi hat
+%%MIDI drummap a 49 %crash cymbal 1
+%%MIDI drummap b 52 %chinese cymbal
+V:drums stem=up
+L:1/4
+P:Cymbals
+"Foot"nD "R"nf "R"mf "L"ng "L"!open!ng "L"na "R"nb |
+w:~Hi\-Hat~ ~Ride~ ~Ride\-Bell~ ~Hi\-Hat(Closed)~ ~Hi\-Hat(Open)~ ~Crash~ ~Chinese~
+P:Drums
+"Foot"F "R"A "R"B "L"c "L"nc "R"d "L"e
+w:~Bass~Drum~ ~Floor~Tom~ ~Low~Tom~ ~Snare~ ~Snare\-Click~ ~Mid~Tom~ ~High~Tom~
+P:Volume and Repetitions
+y10 z yyy z1/2 yyy z1/4 y10|: !diminuendo(!c1/2!diminuendo)!c1/2 !accent!c1/2"@-6,-15(""@10,-15)"c1/2 !crescendo(!c1/4!crescendo)!c1/4 :: {c}c {/c}c |1 {cc}c :|2 {/cc}c |]
+w:~Volume ~down~ ~Accent~ ~Ghost~ ~Volume ~up~ ~Flam~ ~Flam~ ~Ruff~ ~Ruff~
+P:Timing
+(3 c1/2c1/2c1/2 F3/2 | !/!na !//!na !///!na || !plus!ng .na
+w:~Tri\- ~o\- le ~1.5x~ ~2\-stroke~ ~4\-stroke~ ~8\-stroke~  ~Close~ ~Choke~
