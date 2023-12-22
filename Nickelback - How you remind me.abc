@@ -1,0 +1,41 @@
+X:1
+T:How you remind me
+C:Nickelback
+Z:Hawkynt (19.12.2023)
+M:4/4
+Q:85
+K:clef=perc
+U:n=!style=x!
+%%partsbox 1  % show a box around part-names
+%%flatbeams=1 % all beams are flat
+%%staffsep 4cm % separation of lines
+%%MIDI channel 10
+%%MIDI program 0
+%%MIDI drummap D 44 %pedal hi-hat
+%%MIDI drummap F 36 %bass drum 1
+%%MIDI drummap A 41 %low floor tom
+%%MIDI drummap B 45 %low tom
+%%MIDI drummap c 38 %acoustic snare
+%%MIDI drummap d 48 %hi mid tom
+%%MIDI drummap e 50 %high tom
+%%MIDI drummap f 51 %ride cymbal 1
+%%MIDI drummap g 42 %closed hi hat
+%%MIDI drummap a 49 %crash cymbal 1
+%%MIDI drummap b 52 %chinese cymbal
+V:drums stem=up
+L:1/8
+P:Pick-Up
+z2zy "LR"{cc}c "R"c1/2"L"cF1/2 "L"c1/2F1/2!open!ng |y8|
+w:a 3 e + 4 e +
+%V:1
+P:A
+"3x"|: [Fng]ng [cng]ng [Fng][Fng] [cng][Fng] :| [P:Fill] !crescendo(! [Ac][Ac] [Ac]!crescendo)![Ac] c1/2c1/2c1/2c1/2 c1/2c1/2c1/2c1/2 |
+w:1 + 2 + 3 + 4 + 1 + 2 + 3 e + a 4 e + a
+%V:2
+P:B
+"4x"|: [naF]na [nac]na [naF][naF] [nac]na :| [P:Bridge] [Fna][Fna] c2 [Fna][Fna] c2 yyy|
+w:1 + 2 + 3 + 4 + 1 + 2 3 + 4
+%V:3
+P:B
+"2x"|: [naF]na [nac]na [naF][naF] [nac]na :| [P:Bridge]  [Fna][na]1/2F1/2 [na1/2c1/2]F1/2[nac] [Fna][na]1/2F1/2 [nac]na |
+w:1 + 2 + 3 + 4 + 1 + a 2 e + 3 + a 4 +
