@@ -1,0 +1,32 @@
+X:1
+T:Four
+C:Rudiments: Single Stroke
+Z:Hawkynt (20.12.2023)
+K:clef=perc
+U:n=!style=x!
+U:m=!style=triangle!
+%%partsbox 1  % show a box around part-names
+%%flatbeams=1 % all beams are flat
+% %%measurenb 0 % uncomment to show takt-indices
+%%staffsep 5cm % separation of lines
+%%MIDI channel 10
+%%MIDI program 0
+%%MIDI drummap D 44 %pedal hi-hat
+%%MIDI drummap F 36 %bass drum 1
+%%MIDI drummap A 41 %low floor tom
+%%MIDI drummap B 45 %low tom
+%%MIDI drummap c 38 %acoustic snare
+%%MIDI drummap d 48 %hi mid tom
+%%MIDI drummap e 50 %high tom
+%%MIDI drummap f 51 %ride cymbal 1
+%%MIDI drummap g 42 %closed hi hat
+%%MIDI drummap a 49 %crash cymbal 1
+%%MIDI drummap b 52 %chinese cymbal
+V:drums stem=up
+L:1/8
+[P:Basic Lead Right](3 "R"c"L"c"R"c "L"c2 (3 "R"c"L"c"R"c "L"c2 | [P:Basic Lead Left](3 "L"c"R"c"L"c "R"c2 (3 "L"c"R"c"L"c "R"c2 |
+P:Grooves
+|: [F2ng2] [c2ng2] (3 [Fng]ngng c2 :: (3 [FA]ed c2 (3 [FA]ed c2 :|
+P:Fills
+[Fng]ng [cng]ng [Fng]ng [cng]ng | (3 eee c2 (3 AAA c2 |
+[Fng]ng [cng]ng [Fng]ng [cng]ng | (3 ccc e2 (3 AAA d2 |
