@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ABCJS Music Display</title>
+    <script src="https://cdn.jsdelivr.net/npm/abcjs@6.2.3/dist/abcjs-basic-min.js"></script>
+</head>
+<body>
+    <div id="paper"></div>
+    <script>
+        // Function to get the value of a GET parameter by name
+        function getParameterByName(name, url = window.location.href) {
+            name = name.replace(/[\[\]]/g, '\\$&');
+            var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
+
+        // Function to load and display ABC notation from a URI
+        function loadAndDisplayABC(uri) {
+          document.getElementById('paper').innerText=uri;
+            fetch(uri)
+                .then(response => response.text())
+                .then(abcNotation => {
+                    if (abcNotation) {
+                        window.ABCJS.renderAbc("paper", abcNotation);
+                    } else {
+                        console.error("No ABC notation found at the URI.");
+                    }
+                })
+                .catch(error => console.error("Error loading ABC notation:", error));
+        }
+
+        // On page load, get the 'uri' parameter and display the ABC notation
+        window.onload = function() {
+            var uri = getParameterByName('uri');
+            if (uri) {
+                loadAndDisplayABC(uri);
+            } else {
+                console.error("No URI provided in the 'uri' GET parameter.");
+            }
+        };
+    </script>
+</body>
+</html>
