@@ -37,5 +37,5 @@ P:B
 w:1 + 2 + 3 + 4 + 1 + 2 3 + 4
 %V:3
 P:B
-"2x"|: [naF]na [nac]na [naF][naF] [nac]na :| [P:Bridge]  [Fna][na]1/2F1/2 [na1/2c1/2]F1/2[nac] [Fna][na]1/2F1/2 [nac]na |
-w:1 + 2 + 3 + 4 + 1 + a 2 e + 3 + a 4 +
+"2x"|: [naF]na [nac]na [naF][naF] [nac]na :| [P:Bridge]  [Fna][cna] [cna]1/2F1/2na1/2c1/2 [Fna][cna] [cna]1/2F1/2na |
+w:1 + 2 + 3 + 4 + 1 + 2 e + a 3 + 4 e +
