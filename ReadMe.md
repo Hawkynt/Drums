@@ -13,15 +13,16 @@ This repository is a personal collection of my drumming materials. It includes a
 
 Here are some rudiments I practice. I find them essential for developing technique and versatility on the drums.
 
-* Strokes
+* Long Rolls
     - [Single Stroke Roll](https://Hawkynt.github.io/Drums/ABCPlayer.html?uri=https://raw.githubusercontent.com/Hawkynt/Drums/main/Rudiments/Single%20Stroke/Single%20Stroke%20Roll.abc)
     - [Single Stroke 4](https://Hawkynt.github.io/Drums/ABCPlayer.html?uri=https://raw.githubusercontent.com/Hawkynt/Drums/main/Rudiments/Single%20Stroke/Single%20Stroke%20Four.abc)
     - [Single Stroke 7](https://Hawkynt.github.io/Drums/ABCPlayer.html?uri=https://raw.githubusercontent.com/Hawkynt/Drums/main/Rudiments/Single%20Stroke/Single%20Stroke%20Seven.abc)
-
-* Rolls
-    - Multi-Bounce Roll
+    - Multi-Bounce/Buzz-Roll
     - Double-Stroke Roll
     - Triple-Stroke Roll
+
+* Short Rolls
+
     - 4-Stroke Roll
     - 5-Stroke Roll
     - 6-Stroke Roll
