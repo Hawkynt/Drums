@@ -20,8 +20,8 @@ Here are some rudiments I practice. I find them essential for developing techniq
 
 * Rolls
     - Multi-Bounce Roll
-    - 2-Stroke Roll
-    - 3-Stroke Roll
+    - Double-Stroke Roll
+    - Triple-Stroke Roll
     - 4-Stroke Roll
     - 5-Stroke Roll
     - 6-Stroke Roll
