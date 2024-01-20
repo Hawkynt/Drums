@@ -25,8 +25,8 @@ U:n=!style=x!
 V:drums stem=up
 L:1/8
 P:Pick-Up
-z2zy "LR"{cc}c "R"c1/2"L"c1/2F "L"c1/2F1/2!open!ng |y8|
-w:a 3 e + 4 e +
+yz4y "LRLR"{cccc} "R"c1/2"L"c1/2F "L"c1/2F1/2!open!ng |y8|
+w:3 e + 4 e +
 %V:1
 P:A
 "3x"|: [Fng]ng [cng]ng [Fng][Fng] [cng][Fng] :| [P:Fill] !crescendo(! [Ac][Ac] [Ac]!crescendo)![Ac] c1/2c1/2c1/2c1/2 c1/2c1/2c1/2c1/2 |
