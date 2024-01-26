@@ -1,0 +1,29 @@
+X:1
+T:It's No Good
+C:Depeche Mode
+Z:Hawkynt (16.01.2024)
+M:4/4
+Q:100
+K:clef=perc
+U:n=!style=x!
+%%partsbox 1  % show a box around part-names
+%%flatbeams=1 % all beams are flat
+%%staffsep 4cm % separation of lines
+%%MIDI channel 10
+%%MIDI program 0
+%%MIDI drummap D 44 %pedal hi-hat
+%%MIDI drummap F 36 %bass drum 1
+%%MIDI drummap A 41 %low floor tom
+%%MIDI drummap B 45 %low tom
+%%MIDI drummap c 38 %acoustic snare
+%%MIDI drummap d 48 %hi mid tom
+%%MIDI drummap e 50 %high tom
+%%MIDI drummap f 51 %ride cymbal 1
+%%MIDI drummap g 42 %closed hi hat
+%%MIDI drummap ^g 46 %closed hi hat
+%%MIDI drummap a 57 %crash cymbal 1
+%%MIDI drummap b 52 %chinese cymbal
+V:drums stem=up
+L:1/8
+P:Groove
+|: [Fng]ng [cng]ng1/2F1/2 ng[Fng] [cng]ng1/2F1/2 :|
