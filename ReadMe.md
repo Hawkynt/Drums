@@ -110,7 +110,7 @@ Some links to internet materials that could help
 
 ## Playlist
 
-### Chanels with Drumming Stuff and Scrolls on YouTube
+### Channels with Drumming Stuff and Scrolls on YouTube
 
 * [DRUMMATE](https://www.youtube.com/@Drummate)
 * [Drumistry](https://www.youtube.com/@Drumistry)

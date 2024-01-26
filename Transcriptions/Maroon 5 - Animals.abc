@@ -27,7 +27,7 @@ V:drums stem=up
 L:1/16
 P:Groove A
 |: F3F !open![n^gc]2F2 zFF2 !open![n^gc]Fz2 | F3F !open![n^gc]2F2 zFF2 !open![n^gc]4  :|
-w: 1 a 2 + e + 4 e 1 a 2 + e + 4 e
+w: 1 a 2 + 3e + 4 e 1 a 2 + 3e + 4 e
 P:Groove B
 |: [Fng]2ngF [ngc]2[ngF]2 ngF[ngF]2 [ngc]F[ng]2 | [Fng]2ngF [ngc]2[ngF]2 ngF[ngF]2 [ngc]2[ng]2:|
 w: 1 + a 2 + 3 e + 4 e + 1 + a 2 + 3 e + 4 +
