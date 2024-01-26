@@ -22,12 +22,13 @@ U:m=!style=triangle!
 %%MIDI drummap e 50 %high tom
 %%MIDI drummap f 51 %ride cymbal 1
 %%MIDI drummap g 42 %closed hi hat
-%%MIDI drummap a 49 %crash cymbal 1
+%%MIDI drummap ^g 46 %closed hi hat
+%%MIDI drummap a 57 %crash cymbal 1
 %%MIDI drummap b 52 %chinese cymbal
 V:drums stem=up
 L:1/4
 P:Cymbals
-"Foot"nD "R"nf "R"mf "L"ng "L"!open!ng "L"na "R"nb |
+"Foot"nD "R"nf "R"mf "L"ng "L"!open!n^g "L"na "R"nb |
 w:~Hi\-Hat~ ~Ride~ ~Ride\-Bell~ ~Hi\-Hat(Closed)~ ~Hi\-Hat(Open)~ ~Crash~ ~Chinese~
 P:Drums
 "Foot"F "R"A "R"B "L"c "L"nc "R"d "L"e |
