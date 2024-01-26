@@ -1,0 +1,33 @@
+X:1
+T:Animals
+C:Maroon 5
+Z:Hawkynt (16.01.2024)
+M:4/4
+Q:100
+K:clef=perc
+U:n=!style=x!
+%%partsbox 1  % show a box around part-names
+%%flatbeams=1 % all beams are flat
+%%staffsep 4cm % separation of lines
+%%MIDI channel 10
+%%MIDI program 0
+%%MIDI drummap D 44 %pedal hi-hat
+%%MIDI drummap F 36 %bass drum 1
+%%MIDI drummap A 41 %low floor tom
+%%MIDI drummap B 45 %low tom
+%%MIDI drummap c 38 %acoustic snare
+%%MIDI drummap d 48 %hi mid tom
+%%MIDI drummap e 50 %high tom
+%%MIDI drummap f 51 %ride cymbal 1
+%%MIDI drummap g 42 %closed hi hat
+%%MIDI drummap ^g 46 %closed hi hat
+%%MIDI drummap a 57 %crash cymbal 1
+%%MIDI drummap b 52 %chinese cymbal
+V:drums stem=up
+L:1/16
+P:Groove A
+|: F3F !open![n^gc]2F2 zFF2 !open![n^gc]Fz2 | F3F !open![n^gc]2F2 zFF2 !open![n^gc]4  :|
+w: 1 a 2 + e + 4 e 1 a 2 + e + 4 e
+P:Groove B
+|: [Fng]2ngF [ngc]2[ngF]2 ngF[ngF]2 [ngc]F[ng]2 | [Fng]2ngF [ngc]2[ngF]2 ngF[ngF]2 [ngc]2[ng]2:|
+w: 1 + a 2 + 3 e + 4 e + 1 + a 2 + 3 e + 4 +
