@@ -20,12 +20,13 @@ U:n=!style=x!
 %%MIDI drummap e 50 %high tom
 %%MIDI drummap f 51 %ride cymbal 1
 %%MIDI drummap g 42 %closed hi hat
-%%MIDI drummap a 49 %crash cymbal 1
+%%MIDI drummap ^g 46 %closed hi hat
+%%MIDI drummap a 57 %crash cymbal 1
 %%MIDI drummap b 52 %chinese cymbal
 V:drums stem=up
 L:1/8
 P:Pick-Up
-yz4y "LRLR"{cccc} "R"c1/2"L"c1/2F "L"c1/2F1/2!open!ng |y8|
+yz4y "LRLR"{cccc} "R"c1/2"L"c1/2F "L"c1/2F1/2!open!n^g |y8|
 w:3 e + 4 e +
 %V:1
 P:A
