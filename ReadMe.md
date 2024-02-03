@@ -93,8 +93,18 @@ These are some of the songs I've transcribed. I find it helps to understand and 
 These exercises are focused on improving specific skills like speed, coordination, and rhythm.
 
 - Speed Building
+
+![Stick Control for the SNARE DRUMMER](Exercises/9781892764041.jpg)
+
 - Coordination Drills
+
+![Progressive Steps to SYNCOPATION for the Modern Drummer](Exercises/9780882847955.jpg)
+![4-way Coordination](Exercises/9780769233703.jpg)
+
 - Rhythmic Patterns
+
+![Advanced Funk Studies: Creative Patterns for the Advanced Drummer in the Styles of Today's Leading Funk Drummers](Exercises/9780825825538.jpg)
+
 - [More Exercises](Exercises/)
 - [Sight Read Drums](https://www.youtube.com/@SightReadDrums)
 
